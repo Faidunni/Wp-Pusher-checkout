@@ -271,12 +271,12 @@ section h1 {
   font-size: 1rem;
   color: #1d2c3c;
   outline: none;
-  padding: 20px 20px 20px 10px;
+  padding: 20px 0px 20px 5px;
 }
 
 .cvc {
   font-weight: 500;
-  width: 90px;
+  width: 100px;
   height: 36px;
   border-radius: 0px 4px 4px 0px;
   border: 1px solid transparent;
@@ -290,7 +290,7 @@ section h1 {
 
 .year {
   font-weight: 500;
-  width: 110px;
+  width: 120px;
   height: 36px;
   border-radius: 0;
   border: 1px solid transparent;
